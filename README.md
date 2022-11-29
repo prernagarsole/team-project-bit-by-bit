@@ -3,16 +3,16 @@
 
                                                                                     
 # Team Members:
-1. Akhil Apparaju 
+1. Prerna Dattatray Garsole
 2. Sharan Santosh Rachamalla
 3. Tirupati Venkata Sri Sai Rama Raju Penmatsa
-4. Prerna Dattatray Garsole
+4. Akhil Apparaju 
 
 # Contributions 
-1. Akhil Apparaju : Acted as the scrum master, worked on the Search, bookings functionality both front and backend and also completed the admin component.Also worked on the Loyalty Points logic.
+1. Prerna Dattatray Garsole : Acted as the scrum master, Created wireframes for the project such as login/signup, Bookings, Hotels, Services etc and also worked on Signup/Register User Profile, Login/Logout UI. Also created Use Case diagram and Activity Diagram.
 2. Sharan Santosh Rachamalla : Worked on Hotels and Rooms components both frontend and backend, room overview and the hotel bookings UI. Handled the logic for holiday and seasonal pricing, Redux State management.
 3. Tirupati Venkata Sri Sai Rama Raju Penmatsa : Worked on the Signup, UserProfile, Login and logout backend functionality. Performed deployment for backend on AWS autoscaling EC2 with load balancer. Also created architetcture and deployment diagrams.
-4. Prerna Dattatray Garsole : Created wireframes for the project such as login/signup, Bookings, Hotels, Services etc and also worked on Signup/Register User Profile, Login/Logout UI. Also created Use Case diagram and Activity Diagram.
+4. Akhil Apparaju : worked on the Search, bookings functionality both front and backend and also completed the admin component.Also worked on the Loyalty Points logic.
 
 # Tech Stack:
 Frontend - ReactJS
